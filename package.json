@@ -1,0 +1,32 @@
+{
+  "name": "koaserver",
+  "version": "1.0.0",
+  "description": "Small koa server for testing porpuses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bueggi/KoaServer.git"
+  },
+  "keywords": [
+    "koa",
+    "server",
+    "koa",
+    "server"
+  ],
+  "author": "Christopher B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bueggi/KoaServer/issues"
+  },
+  "homepage": "https://github.com/Bueggi/KoaServer#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "nodemon": "^1.18.4"
+  }
+}
